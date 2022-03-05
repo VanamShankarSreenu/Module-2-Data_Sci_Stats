@@ -1,0 +1,1446 @@
+Flavor_Group,flavor
+Alcohol," Vodka, Citron"
+Alcohol,Bacardi
+Alcohol,"Bacardi, Gold"
+Alcohol,"Bacardi, Silver"
+Alcohol,"Beer, Ale"
+Alcohol,"Beer, Amber"
+Alcohol,"Beer, Amber Ale"
+Alcohol,"Beer, Amstel"
+Alcohol,"Beer, Black"
+Alcohol,"Beer, Blonde"
+Alcohol,"Beer, Blonde Ale"
+Alcohol,"Beer, Bock"
+Alcohol,"Beer, Brown"
+Alcohol,"Beer, Brown Ale"
+Alcohol,"Beer, Dark"
+Alcohol,"Beer, Dark Ale"
+Alcohol,"Beer, Dark Amber"
+Alcohol,"Beer, Draft"
+Alcohol,"Beer, Ginger"
+Alcohol,"Beer, Guiness"
+Alcohol,"Beer, Hopped Ale"
+Alcohol,"Beer, Indian"
+Alcohol,"Beer, Ipa"
+Alcohol,"Beer, Jamaican"
+Alcohol,"Beer, Lager"
+Alcohol,"Beer, Malt"
+Alcohol,"Beer, Malt"
+Alcohol,"Beer, Marzen"
+Alcohol,"Beer, Not specified"
+Alcohol,"Beer, Pale"
+Alcohol,"Beer, Pale Ale"
+Alcohol,"Beer, Pale ale"
+Alcohol,"Beer, Pilsner"
+Alcohol,"Beer, Porter"
+Alcohol,"Beer, Porter"
+Alcohol,"Beer, Red"
+Alcohol,"Beer, Red Ale"
+Alcohol,"Beer, Red Lager"
+Alcohol,"Beer, Rye"
+Alcohol,"Beer, Spiced"
+Alcohol,"Beer, Stout"
+Alcohol,"Beer, Wheat"
+Alcohol,"Beer, White"
+Alcohol,"Beer, White"
+Alcohol,"Beer, White Ale"
+Alcohol,Bourbon
+Alcohol,Brandy
+Alcohol,"Brandy, Armagnac"
+Alcohol,"Cake, Not Specified"
+Alcohol,Champagne
+Alcohol,"Champagne, Pink"
+Alcohol,Cider
+Alcohol,"Cider, Apple"
+Alcohol,"Cider, Not Specified"
+Alcohol,"Cider, Pear"
+Alcohol,"Cider, Raspberry"
+Alcohol,"Cocktail, Bloody Mary"
+Alcohol,"Cocktail, Caipirinha"
+Alcohol,"Cocktail, Caipirinha"
+Alcohol,"Cocktail, Cosmopolitan"
+Alcohol,"Cocktail, Daiquiri"
+Alcohol,"Cocktail, Daiquiri"
+Alcohol,"Cocktail, Irish Coffee"
+Alcohol,"Cocktail, Mai Tai"
+Alcohol,"Cocktail, Mai Tai"
+Alcohol,"Cocktail, Margarita"
+Alcohol,"Cocktail, Margarita"
+Alcohol,"Cocktail, Mimosa"
+Alcohol,"Cocktail, Mint Julep"
+Alcohol,"Cocktail, Mojito"
+Alcohol,"Cocktail, Mojito"
+Alcohol,"Cocktail, Mudslide"
+Alcohol,"Cocktail, Not Specified"
+Alcohol,"Cocktail, Pina Colada"
+Alcohol,"Cocktail, Pina Colada"
+Alcohol,"Cocktail, Screwdriver"
+Alcohol,"Cocktail, Tia Maria"
+Alcohol,"Cocktail, Tom Collins"
+Alcohol,"Cocktail, Whiskey Sour"
+Alcohol,"Cocktail, White Russian"
+Alcohol,"Coffee, Ethiopia"
+Alcohol,Cognac
+Alcohol,Cognac
+Alcohol,"Cognac, Courvoisier"
+Alcohol,"Cognac, Hennessy"
+Alcohol,"Cognac, Remy Martin"
+Alcohol,"Cognac, Remy Vsop"
+Alcohol,Cointreau
+Alcohol,Curacao
+Alcohol,Curacao
+Alcohol,Gin
+Alcohol,Gin
+Alcohol,"Gin, Beefeater"
+Alcohol,"Gin, Bombay"
+Alcohol,"Gin, Tanqueray"
+Alcohol,Grand Marnier 
+Alcohol,Grappa
+Alcohol,Jaeggermeister
+Alcohol,"Liqueur, Alkermes"
+Alcohol,"Liqueur, Baileys"
+Alcohol,"Liqueur, Irish Cream"
+Alcohol,"Liqueur, Kahlua"
+Alcohol,"Liqueur, Not specified"
+Alcohol,"Liqueur, Ouzo"
+Alcohol,"Liqueur, Sambuca"
+Alcohol,"Liqueur, Triple Sec"
+Alcohol,Madeira
+Alcohol,Martini
+Alcohol,Mediterranean
+Alcohol,"Rum, Bacardi"
+Alcohol,"Rum, Black"
+Alcohol,"Rum, Brown"
+Alcohol,"Rum, Coconut"
+Alcohol,"Rum, Dark"
+Alcohol,"Rum, Dark"
+Alcohol,"Rum, Gold"
+Alcohol,"Rum, Light"
+Alcohol,"Rum, Not Specified"
+Alcohol,"Rum, Not specified"
+Alcohol,"Rum, Spiced"
+Alcohol,"Rum, White"
+Alcohol,Sake
+Alcohol,Schnapps
+Alcohol,"Spirit, Absinthe"
+Alcohol,"Spirit, Amaretto"
+Alcohol,"Spirit, Apple Sour"
+Alcohol,"Spirit, Armagnac"
+Alcohol,"Spirit, Bacardi"
+Alcohol,"Spirit, Bourbon"
+Alcohol,"Spirit, Brandy"
+Alcohol,"Spirit, Cachaca"
+Alcohol,"Spirit, Calvados"
+Alcohol,"Spirit, Campari"
+Alcohol,"Spirit, Chartreuse"
+Alcohol,"Spirit, Cognac"
+Alcohol,"Spirit, Cointreau"
+Alcohol,"Spirit, Courvoisier"
+Alcohol,"Spirit, Curacao"
+Alcohol,"Spirit, Frangelico"
+Alcohol,"Spirit, Gin"
+Alcohol,"Spirit, Grand Marnier"
+Alcohol,"Spirit, Grappa"
+Alcohol,"Spirit, Guarapo"
+Alcohol,"Spirit, Jack Daniels"
+Alcohol,"Spirit, Kahlua"
+Alcohol,"Spirit, Malibu"
+Alcohol,"Spirit, Margarita"
+Alcohol,"Spirit, Martini"
+Alcohol,"Spirit, Mescal"
+Alcohol,"Spirit, Not Specified"
+Alcohol,"Spirit, Peach Schnapps"
+Alcohol,"Spirit, Pimms"
+Alcohol,"Spirit, Pisco"
+Alcohol,"Spirit, Rum"
+Alcohol,"Spirit, Sake"
+Alcohol,"Spirit, Schnapps"
+Alcohol,"Spirit, Scotch"
+Alcohol,"Spirit, Southern Comfort"
+Alcohol,"Spirit, Tequila"
+Alcohol,"Spirit, Tuaca"
+Alcohol,"Spirit, Vermouth"
+Alcohol,"Spirit, Vodka"
+Alcohol,Tequila
+Alcohol,"Tequila, Cuervo"
+Alcohol,"Tequila, Gold"
+Alcohol,"Tequila, Not Specified"
+Alcohol,"Tequila, Patron Anejo"
+Alcohol,"Tequila, Silver"
+Alcohol,Triple Sec
+Alcohol,Vermouth
+Alcohol,Vodka
+Alcohol,"Vodka, Cherry"
+Alcohol,"Vodka, Chocolate"
+Alcohol,"Vodka, Cranberry"
+Alcohol,"Vodka, Not Specified"
+Alcohol,"Vodka, Pepper"
+Alcohol,"Vodka, Pineapple"
+Alcohol,"Vodka, Raspberry"
+Alcohol,Whiskey
+Alcohol,"Whiskey, Bourbon"
+Alcohol,"Whiskey, Chivas Regal"
+Alcohol,"Whiskey, Cragganmore"
+Alcohol,"Whiskey, Dewars"
+Alcohol,"Whiskey, Islay"
+Alcohol,"Whiskey, Jack Daniels"
+Alcohol,"Whiskey, Johnnie Walker Black"
+Alcohol,"Whiskey, Not Specified"
+Alcohol,"Whiskey, Rye"
+Alcohol,"Whiskey, Sake"
+Alcohol,"Whiskey, Scotch"
+Alcohol,"Whiskey, Single Malt"
+Alcohol,"Wine, Bordeaux"
+Alcohol,"Wine, Burgundy"
+Alcohol,"Wine, Cabernet sauvignon"
+Alcohol,"Wine, Chablis"
+Alcohol,"Wine, Chardonnay"
+Alcohol,"Wine, Chenin blanc"
+Alcohol,"Wine, Claret"
+Alcohol,"Wine, Marsala"
+Alcohol,"Wine, May"
+Alcohol,"Wine, Merlot"
+Alcohol,"Wine, Mulled"
+Alcohol,"Wine, Muscatel"
+Alcohol,"Wine, Not specified"
+Alcohol,"Wine, Pinot"
+Alcohol,"Wine, Pinot grigio"
+Alcohol,"Wine, Port"
+Alcohol,"Wine, Red"
+Alcohol,"Wine, Rice"
+Alcohol,"Wine, Rose"
+Alcohol,"Wine, Sangria"
+Alcohol,"Wine, Sauterne"
+Alcohol,"Wine, Sauvignon blanc"
+Alcohol,"Wine, Sherry"
+Alcohol,"Wine, Shiraz"
+Alcohol,"Wine, Shiraz Cabernet"
+Alcohol,"Wine, Shiraz pinot"
+Alcohol,"Wine, Shiraz  "
+Alcohol,"Wine, Spiced"
+Alcohol,"Wine, Syrah"
+Alcohol,"Wine, White"
+Alcohol,"Wine, Zinfandel"
+Alcohol,Zambuca
+Brown Flavors,Angelica root
+Brown Flavors,Butter Pecan
+Brown Flavors,Butterscotch
+Brown Flavors,Cappuccino
+Brown Flavors,Caramel
+Brown Flavors,Chocolate Chip
+Brown Flavors,Chocolate Chip Cookie
+Brown Flavors,Chocolate Fudge
+Brown Flavors,Chocolate Hazelnut
+Brown Flavors,"Chocolate, Belgian"
+Brown Flavors,"Chocolate, Black"
+Brown Flavors,"Chocolate, Dark"
+Brown Flavors,"Chocolate, Dutch"
+Brown Flavors,"Chocolate, German"
+Brown Flavors,"Chocolate, Milk"
+Brown Flavors,"Chocolate, Mint"
+Brown Flavors,"Chocolate, Mocha"
+Brown Flavors,"Chocolate, Not specified"
+Brown Flavors,"Chocolate, Swiss"
+Brown Flavors,"Chocolate, Truffle"
+Brown Flavors,"Chocolate, White"
+Brown Flavors,Cocoa
+Brown Flavors,"Coffee, Arabica"
+Brown Flavors,"Coffee, Cafe au lait"
+Brown Flavors,"Coffee, Cappuccino"
+Brown Flavors,"Coffee, Caribou"
+Brown Flavors,"Coffee, Colombia"
+Brown Flavors,"Coffee, Dark roast"
+Brown Flavors,"Coffee, Ecuador"
+Brown Flavors,"Coffee, Espresso"
+Brown Flavors,"Coffee, Guatemala"
+Brown Flavors,"Coffee, Irish"
+Brown Flavors,"Coffee, Java"
+Brown Flavors,"Coffee, Latte"
+Brown Flavors,"Coffee, Latte macchiatto"
+Brown Flavors,"Coffee, Marocchino"
+Brown Flavors,"Coffee, Mocha"
+Brown Flavors,"Coffee, Mocha java"
+Brown Flavors,"Coffee, Not specified"
+Brown Flavors,"Coffee, Robusta"
+Brown Flavors,Cola
+Brown Flavors,"Corn, Mazie"
+Brown Flavors,Cream Soda
+Brown Flavors,Creme Brulee
+Brown Flavors,Dulce De Leche
+Brown Flavors,Fudge
+Brown Flavors,Gianduia
+Brown Flavors,Ginger Ale
+Brown Flavors,Ginger Beer
+Brown Flavors,Honey
+Brown Flavors,"Honey, Acacia"
+Brown Flavors,Linden Blossom
+Brown Flavors,Malt
+Brown Flavors,Maple
+Brown Flavors,Marzipan
+Brown Flavors,Mocha
+Brown Flavors,Molasses
+Brown Flavors,"Oil, Fish"
+Brown Flavors,"Oil, Linseed"
+Brown Flavors,"Organ Meat, Gizzard"
+Brown Flavors,Passion Flower
+Brown Flavors,Peanut Butter
+Brown Flavors,Praline
+Brown Flavors,Pralines & Cream
+Brown Flavors,Root Beer
+Brown Flavors,"Sauce, Buffalo"
+Brown Flavors,"Sugar, Brown"
+Brown Flavors,"Sugar, Candied"
+Brown Flavors,"Sugar, Cane"
+Brown Flavors,"Sugar, Caramelized"
+Brown Flavors,"Sugar, Castor"
+Brown Flavors,"Sugar, Coated"
+Brown Flavors,"Sugar, Frosting"
+Brown Flavors,"Sugar, Fructose"
+Brown Flavors,"Sugar, Glaze"
+Brown Flavors,"Sugar, Grains"
+Brown Flavors,"Sugar, Malt"
+Brown Flavors,"Sugar, Not specified"
+Brown Flavors,"Sugar, Organic"
+Brown Flavors,"Sugar, Palm"
+Brown Flavors,"Sugar, Refined"
+Brown Flavors,"Sugar, Shell"
+Brown Flavors,"Sugar, Stevia"
+Brown Flavors,"Sugar, Sweetener"
+Brown Flavors,"Sugar, Syrup"
+Brown Flavors,"Sugar, White"
+Brown Flavors,"Syrup, Golden"
+Brown Flavors,"Syrup, Not specified"
+Brown Flavors,"Syrup, Treacle"
+Brown Flavors,Tiramisu
+Brown Flavors,Toffee
+Brown Flavors,Turkish Delight
+Brown Flavors,Water
+"Cake, cookie & pie",Apple Cobbler
+"Cake, cookie & pie","Cake, Angel food"
+"Cake, cookie & pie","Cake, Blackforest"
+"Cake, cookie & pie","Cake, Brownie"
+"Cake, cookie & pie","Cake, Carrot"
+"Cake, cookie & pie","Cake, Cheesecake"
+"Cake, cookie & pie","Cake, Devils food"
+"Cake, cookie & pie","Cake, Fruit"
+"Cake, cookie & pie","Cake, Marble"
+"Cake, cookie & pie","Cake, Muffin"
+"Cake, cookie & pie","Cake, Panettone"
+"Cake, cookie & pie","Cake, Pound"
+"Cake, cookie & pie","Cake, Red velvet"
+"Cake, cookie & pie","Cake, Sponge"
+"Cake, cookie & pie","Cake, Swiss roll"
+"Cake, cookie & pie","Cake, White"
+"Cake, cookie & pie","Cake, Yellow"
+"Cake, cookie & pie",Cookie Dough
+"Cake, cookie & pie","Cookie, Not Specified"
+"Cake, cookie & pie",Cookies & Cream
+"Cake, cookie & pie",French Silk
+"Cake, cookie & pie",Gingerbread
+"Cake, cookie & pie",Graham Cracker
+"Cake, cookie & pie","Lemon, Meringue"
+"Cake, cookie & pie",Oreo
+"Cake, cookie & pie","Pie, Apple"
+"Cake, cookie & pie","Pie, Key lime"
+"Cake, cookie & pie",Shortbread
+Dairy Flavors,Butter
+Dairy Flavors,Buttermilk
+Dairy Flavors,Caesar
+Dairy Flavors,"Cheddar, White"
+Dairy Flavors,"Cheese, American"
+Dairy Flavors,"Cheese, Asiago"
+Dairy Flavors,"Cheese, Bechamel"
+Dairy Flavors,"Cheese, Blue"
+Dairy Flavors,"Cheese, Blue buffalo"
+Dairy Flavors,"Cheese, Brie"
+Dairy Flavors,"Cheese, Camembert"
+Dairy Flavors,"Cheese, Cascaval"
+Dairy Flavors,"Cheese, Cheddar"
+Dairy Flavors,"Cheese, Cheddar grilled"
+Dairy Flavors,"Cheese, Cheddar new york"
+Dairy Flavors,"Cheese, Colby jack"
+Dairy Flavors,"Cheese, Cotija"
+Dairy Flavors,"Cheese, Cottage"
+Dairy Flavors,"Cheese, Cream"
+Dairy Flavors,"Cheese, Curd"
+Dairy Flavors,"Cheese, Edam"
+Dairy Flavors,"Cheese, Emmental"
+Dairy Flavors,"Cheese, Ewe"
+Dairy Flavors,"Cheese, Feta"
+Dairy Flavors,"Cheese, Fondue"
+Dairy Flavors,"Cheese, Fontal"
+Dairy Flavors,"Cheese, fontina"
+Dairy Flavors,"Cheese, Gloucester"
+Dairy Flavors,"Cheese, Goat"
+Dairy Flavors,"Cheese, Gorgonzola"
+Dairy Flavors,"Cheese, Gouda"
+Dairy Flavors,"Cheese, Grana"
+Dairy Flavors,"Cheese, Greek"
+Dairy Flavors,"Cheese, Gruyere"
+Dairy Flavors,"Cheese, Halloumi"
+Dairy Flavors,"Cheese, Havarti"
+Dairy Flavors,"Cheese, Leicester"
+Dairy Flavors,"Cheese, Maasdam"
+Dairy Flavors,"Cheese, Manchego"
+Dairy Flavors,"Cheese, Mascarpone"
+Dairy Flavors,"Cheese, Monterey jack"
+Dairy Flavors,"Cheese, Mozzarella"
+Dairy Flavors,"Cheese, Mozzarella buffalo"
+Dairy Flavors,"Cheese, muenster"
+Dairy Flavors,"Cheese, Nacho"
+Dairy Flavors,"Cheese, Neufchatel"
+Dairy Flavors,"Cheese, Not specified"
+Dairy Flavors,"Cheese, Old english"
+Dairy Flavors,"Cheese, Onion"
+Dairy Flavors,"Cheese, Paneer"
+Dairy Flavors,"Cheese, Parmesan"
+Dairy Flavors,"Cheese, Parmigiano reggiano"
+Dairy Flavors,"Cheese, Pecorino"
+Dairy Flavors,"Cheese, Pepper jack"
+Dairy Flavors,"Cheese, Processed"
+Dairy Flavors,"Cheese, Provolone"
+Dairy Flavors,"Cheese, Regato"
+Dairy Flavors,"Cheese, Ricotta"
+Dairy Flavors,"Cheese, Romano"
+Dairy Flavors,"Cheese, Roquefort"
+Dairy Flavors,"Cheese, Stilton"
+Dairy Flavors,"Cheese, Stracchino"
+Dairy Flavors,"Cheese, Swiss"
+Dairy Flavors,"Cheese, Tilsiter"
+Dairy Flavors,"Cheese, Vegetarian"
+Dairy Flavors,"Cheese, Wensleydale"
+Dairy Flavors,"Cheese, White cheddar"
+Dairy Flavors,"Cream, Bavarian"
+Dairy Flavors,"Cream, Heavy"
+Dairy Flavors,"Cream, not specified"
+Dairy Flavors,"Cream, Sour"
+Dairy Flavors,"Cream, Soy"
+Dairy Flavors,"Cream, Sweet"
+Dairy Flavors,"Cream, Whipped"
+Dairy Flavors,Custard
+Dairy Flavors,Egg
+Dairy Flavors,Egg Yolk
+Dairy Flavors,"Egg, Quail"
+Dairy Flavors,Ghee
+Dairy Flavors,Kefir
+Dairy Flavors,Margarine
+Dairy Flavors,"Milk, Coconut"
+Dairy Flavors,"Milk, Condensed"
+Dairy Flavors,"Milk, Cooked"
+Dairy Flavors,"Milk, Fermented"
+Dairy Flavors,"Milk, Not specified"
+Dairy Flavors,"Milk, Soy"
+Dairy Flavors,Panna Cotta
+Dairy Flavors,Quark
+Dairy Flavors,Ranch
+Dairy Flavors,Sour Cream & Onion
+Dairy Flavors,"Soy, Not specified"
+Dairy Flavors,Yogurt
+Ethnic,Al Pastor
+Ethnic,Asian
+Ethnic,Balti
+Ethnic,Barbacoa
+Ethnic,Bhuna
+Ethnic,Bolognaise
+Ethnic,Cajun
+Ethnic,Caribbean
+Ethnic,Carnitas
+Ethnic,Chimichurri
+Ethnic,Chinese
+Ethnic,Cochinita Pibil
+Ethnic,Dhansak
+Ethnic,Dopiaza
+Ethnic,Enchilada
+Ethnic,French
+Ethnic,Garam Masala
+Ethnic,Greek
+Ethnic,Indian
+Ethnic,Italian
+Ethnic,Jalfrezi
+Ethnic,Japanese
+Ethnic,Jerk
+Ethnic,Karahi
+Ethnic,Korean
+Ethnic,Lasagne
+Ethnic,Lebanese
+Ethnic,Masala
+Ethnic,Mexican
+Ethnic,Middle Eastern
+Ethnic,Moroccan
+Ethnic,Mulligatawny
+Ethnic,Napoli
+Ethnic,Oriental
+Ethnic,Pasanda
+Ethnic,Peking
+Ethnic,Pizza
+Ethnic,Satay
+Ethnic,Spaghetti
+Ethnic,Spanish
+Ethnic,Sweet & Sour
+Ethnic,Szechuan
+Ethnic,Tandoori
+Ethnic,Tex Mex
+Ethnic,Thai
+Ethnic,Tikka
+Ethnic,Tom yum
+Fantasy Flavors,Bananas Foster
+Fantasy Flavors,Bubble Gum
+Fantasy Flavors,Candied Apple
+Fantasy Flavors,Candy Corn
+Fantasy Flavors,Cherries Jubilee
+Fantasy Flavors,Cooling Sensation
+Fantasy Flavors,Cotton Candy
+Fantasy Flavors,Egg Nog
+Fantasy Flavors,Marshmallow
+Fantasy Flavors,Meringue
+Fantasy Flavors,Nougat
+Fantasy Flavors,Peach Melba
+Fantasy Flavors,Spumoni
+Fantasy Flavors,Tutti Frutti
+Fantasy Flavors,Warming Sensation
+Flowers,Cherry Blossom
+Flowers,Cherry Blossom (Sakura)
+Flowers,Chrysanthemum
+Flowers,Geranium
+Flowers,Hibiscus
+Flowers,Honeysuckle
+Flowers,Jasmine
+Flowers,Lavender
+Flowers,Lotus
+Flowers,Moringa
+Flowers,Orange Blossom
+Flowers,Osmanthus
+Flowers,Rose
+Flowers,Rose Petal
+Flowers,Rosewater
+Flowers,Violet
+Flowers,Ylang Ylang
+Fruit,Abiu
+Fruit,Akee
+Fruit,Alibertia
+Fruit,Aloe Vera
+Fruit,"Apple, Golden"
+Fruit,"Apple, Granny smith"
+Fruit,"Apple, Green"
+Fruit,"Apple, Not specified"
+Fruit,"Apple, Red"
+Fruit,Apricot
+Fruit,Araza
+Fruit,Bael Fruit
+Fruit,Banana
+Fruit,Barbados Cherry
+Fruit,Bayberry
+Fruit,"Bayberry, Red"
+Fruit,Bergamot
+Fruit,"Berry, Aronia (Chokeberry)"
+Fruit,"Berry, Barberry"
+Fruit,"Berry, Bearberry"
+Fruit,"Berry, Blackberry"
+Fruit,"Berry, Blueberry"
+Fruit,"Berry, Boysenberry"
+Fruit,"Berry, Buffalo"
+Fruit,"Berry, Cranberry"
+Fruit,"Berry, Crowberry"
+Fruit,"Berry, Elderberry"
+Fruit,"Berry, Gooseberry"
+Fruit,"Berry, Hackberry"
+Fruit,"Berry, Lingon"
+Fruit,"Berry, Marion"
+Fruit,"Berry, Miracle"
+Fruit,"Berry, Mixed"
+Fruit,"Berry, Moringa"
+Fruit,"Berry, Nannyberry"
+Fruit,"Berry, Not specified"
+Fruit,"Berry, Red"
+Fruit,"Berry, Salmonberry"
+Fruit,"Berry, Strawberry Tree"
+Fruit,"Berry, Ugniberry"
+Fruit,"Berry, Wildberry"
+Fruit,"Berry, Wineberry"
+Fruit,Bignay
+Fruit,Bilberry
+Fruit,Biriba
+Fruit,Black Sapote
+Fruit,Blackcurrant
+Fruit,Bluecurrant
+Fruit,Brambleberry
+Fruit,Cannonball
+Fruit,Canteloupe
+Fruit,Cassis
+Fruit,Ceylon Gooseberry
+Fruit,Champedak
+Fruit,Cherry Apple
+Fruit,"Cherry, Beach"
+Fruit,"Cherry, Black"
+Fruit,"Cherry, Maraschino"
+Fruit,"Cherry, morello"
+Fruit,"Cherry, Not specified"
+Fruit,"Cherry, Red"
+Fruit,"Cherry, Sour"
+Fruit,"Cherry, Sweet"
+Fruit,"Cherry, Wild"
+Fruit,Chinese Gooseberry
+Fruit,Chokeberry
+Fruit,"Citrus, Not specified"
+Fruit,Clementine
+Fruit,Coconut
+Fruit,Cowberry
+Fruit,Cupuacu
+Fruit,"Currant, not specified"
+Fruit,Date
+Fruit,"Exotic Fruit, Not specified"
+Fruit,Feijoa
+Fruit,Fig
+Fruit,Forest Fruit
+Fruit,"Fruit, Camu Camu"
+Fruit,"Fruit, Doum Palm"
+Fruit,"Fruit, Not specified"
+Fruit,Galanga
+Fruit,Gandara (Plum Mango)
+Fruit,Gandaria
+Fruit,Genipap
+Fruit,Giant Granadilla
+Fruit,"Gourd, Bitter"
+Fruit,"Gourd, White"
+Fruit,"Grape, black"
+Fruit,"Grape, Green"
+Fruit,"Grape, Muscat"
+Fruit,"Grape, Not specified"
+Fruit,"Grape, Red"
+Fruit,"Grape, White"
+Fruit,"Grapefruit, Not specified"
+Fruit,"Grapefruit, Pink"
+Fruit,"Grapefruit, Red"
+Fruit,Greengage
+Fruit,Grumichama
+Fruit,Guava
+Fruit,Heathberry
+Fruit,Honeydew
+Fruit,Huckleberry
+Fruit,Indian Jujube
+Fruit,Ita Palm
+Fruit,Jaboticaba
+Fruit,Jamaica Cherry
+Fruit,Kechapi
+Fruit,Kepel
+Fruit,Ketupa
+Fruit,Kiwano
+Fruit,Kiwi
+Fruit,Langsat/Duku
+Fruit,Lemon
+Fruit,"Lemon, Bitter"
+Fruit,Lemon-Lime
+Fruit,Lemonade
+Fruit,"Lemonade, Pink"
+Fruit,Lime
+Fruit,"Lime, Key"
+Fruit,Longan
+Fruit,Loquat
+Fruit,Lucmo
+Fruit,Lungan
+Fruit,Mabolo
+Fruit,Macapuno
+Fruit,Macis
+Fruit,Malaga
+Fruit,Malay Apple
+Fruit,Mamey Sapote
+Fruit,Mandarin
+Fruit,Mango
+Fruit,"Mango, Green"
+Fruit,Maprang
+Fruit,Margoline
+Fruit,Matrimony Vine
+Fruit,Medlar
+Fruit,"Melon, Not specified"
+Fruit,Minneola
+Fruit,Monkey Bread
+Fruit,Morinda
+Fruit,Naartjie
+Fruit,Nance
+Fruit,Nangka
+Fruit,Nashi Pear
+Fruit,Nata De Coco
+Fruit,Nectarine
+Fruit,"Orange, Blood"
+Fruit,"Orange, Chinotto"
+Fruit,"Orange, Not specified"
+Fruit,"Orange, Ruby"
+Fruit,"Orange, Sicilian"
+Fruit,"Orange, Sweet"
+Fruit,"Orange, Valencia"
+Fruit,Ortanique
+Fruit,Otaheite Gooseberry
+Fruit,Pandan
+Fruit,Papaya
+Fruit,Passion Fruit
+Fruit,Peach
+Fruit,Peach Palm
+Fruit,"Peach, White"
+Fruit,Pear
+Fruit,Persimmon
+Fruit,Philippine Roseapple
+Fruit,Physalis
+Fruit,Pineapple
+Fruit,Pineberry
+Fruit,Pitahaya
+Fruit,Pitanga
+Fruit,Plantain
+Fruit,Plum
+Fruit,"Plum, Mirabelle"
+Fruit,Prickly Pear
+Fruit,Prune
+Fruit,Pulasan
+Fruit,Raisin
+Fruit,Rambai
+Fruit,Rambutan
+Fruit,"Raspberry, black"
+Fruit,"Raspberry, Blue"
+Fruit,"Raspberry, Not specified"
+Fruit,"Raspberry, Red"
+Fruit,Redcurrant
+Fruit,Rhubarb
+Fruit,Rose Apple
+Fruit,Rosehip
+Fruit,Sala
+Fruit,Salak
+Fruit,Sansapote
+Fruit,Santoli
+Fruit,Sapodilla
+Fruit,Satsuma
+Fruit,Sea Grape
+Fruit,Shaddock
+Fruit,Sloeberry
+Fruit,Soncoya
+Fruit,Star Apple
+Fruit,Star Nut Palm
+Fruit,Strawberry
+Fruit,Sugar Apple
+Fruit,Sultana
+Fruit,"Superfruit, Acai"
+Fruit,"Superfruit, Acerola"
+Fruit,"Superfruit, Agave"
+Fruit,"Superfruit, Baobab"
+Fruit,"Superfruit, Cactus"
+Fruit,"Superfruit, Caja"
+Fruit,"Superfruit, Calabash"
+Fruit,"Superfruit, Calamansi"
+Fruit,"Superfruit, Camu camu"
+Fruit,"Superfruit, Carambola"
+Fruit,"Superfruit, Cherimoya"
+Fruit,"Superfruit, Cloudberry"
+Fruit,"Superfruit, Custard Apple (Noi Naa)"
+Fruit,"Superfruit, Dragonfruit"
+Fruit,"Superfruit, Durian"
+Fruit,"Superfruit, Goji"
+Fruit,"Superfruit, Goldenberry"
+Fruit,"Superfruit, Gooseberry"
+Fruit,"Superfruit, Hawthorn"
+Fruit,"Superfruit, Hogplum"
+Fruit,"Superfruit, Jackfruit"
+Fruit,"Superfruit, Jujube"
+Fruit,"Superfruit, Komatsuna"
+Fruit,"Superfruit, Kumquat"
+Fruit,"Superfruit, Loganberry"
+Fruit,"Superfruit, Lucuma"
+Fruit,"Superfruit, Lychee"
+Fruit,"Superfruit, Mangosteen"
+Fruit,"Superfruit, Maqui (Chilean Wineberry)"
+Fruit,"Superfruit, Marula"
+Fruit,"Superfruit, Mulberry"
+Fruit,"Superfruit, Osmanthus"
+Fruit,"Superfruit, Pawpaw"
+Fruit,"Superfruit, Pomegranate"
+Fruit,"Superfruit, Pomelo"
+Fruit,"Superfruit, Quince"
+Fruit,"Superfruit, Seabuckthorn"
+Fruit,"Superfruit, Soursop & Guanabana"
+Fruit,"Superfruit, Starfruit"
+Fruit,"Superfruit, Umbu"
+Fruit,"Superfruit, Yacon"
+Fruit,"Superfruit, Yumberry"
+Fruit,"Superfruit, Yuzu"
+Fruit,Surinam Cherry
+Fruit,Sweet Grenadilla
+Fruit,Sweetsop
+Fruit,Tamarillo
+Fruit,Tamarind
+Fruit,Tangelo
+Fruit,Tangerine
+Fruit,Tayberry
+Fruit,Temple Mandarin
+Fruit,Tree Tomato
+Fruit,"Tropical Fruit, Not specified"
+Fruit,Ube
+Fruit,Ugli
+Fruit,Voavanga
+Fruit,Water Apple 
+Fruit,Watermelon
+Fruit,Wax Jambu
+Fruit,Waxberry
+Fruit,White Sapote
+Fruit,Whortleberry
+Fruit,Wood Apple
+Grains,Barley
+Grains,Couscous
+Grains,"Grains, Adlay"
+Grains,"Grains, Adlay"
+Grains,"Grains, Amaranth"
+Grains,"Grains, Bran"
+Grains,"Grains, Buckwheat"
+Grains,"Grains, Chia"
+Grains,"Grains, Kamut"
+Grains,"Grains, Millet"
+Grains,"Grains, Not specified"
+Grains,"Grains, Quinoa"
+Grains,"Grains, Rye"
+Grains,"Grains, Sorghum"
+Grains,"Grains, Spelt"
+Grains,"Grains, Teff"
+Grains,Granola
+Grains,Oatmeal
+Grains,Oats
+Grains,"Wheat, Bulgar"
+Grains,"Wheat, Durum"
+Grains,"Wheat, Not specified"
+Grains,Wholegrain
+Herbs,Acacia
+Herbs,Aniseed
+Herbs,Arrowroot
+Herbs,Asafoetida
+Herbs,"Balm, Lemon"
+Herbs,Basil
+Herbs,"Basil, Thai"
+Herbs,Bay Leaf
+Herbs,Birch Tree
+Herbs,Chervil
+Herbs,Chive
+Herbs,Cilantro
+Herbs,Coriander
+Herbs,Curcumin
+Herbs,Dill
+Herbs,Echinacea
+Herbs,Elderflower
+Herbs,Fennel
+Herbs,"Garlic, Black"
+Herbs,"Garlic, Not specified"
+Herbs,"Garlic, Roasted"
+Herbs,"Gingko, Not specified"
+Herbs,"Ginseng, Not specified"
+Herbs,Guarana
+Herbs,Herbs De Provence
+Herbs,"Herbs, Buckthorn"
+Herbs,"Herbs, Not specified"
+Herbs,Kombacha
+Herbs,Laurel
+Herbs,Licorice
+Herbs,Marjoram
+Herbs,Melissa
+Herbs,Molokhia
+Herbs,Oregano
+Herbs,Parsley
+Herbs,"Pesto, Green"
+Herbs,"Pesto, Not specified"
+Herbs,"Pesto, Red"
+Herbs,Rosemary
+Herbs,Sage
+Herbs,Savory
+Herbs,Tarragon
+Herbs,Thyme
+Herbs,Valerian
+Herbs,Woodruff
+Mint & Menthol,Menthol
+Mint & Menthol,"Mint, Black"
+Mint & Menthol,"Mint, Not specified"
+Mint & Menthol,Peppermint
+Mint & Menthol,Spearmint
+Mint & Menthol,Teaberry
+Mint & Menthol,Wintergreen
+Nuts,"Nut, Almond"
+Nuts,"Nut, Amaretto"
+Nuts,"Nut, Brazil"
+Nuts,"Nut, Cashew"
+Nuts,"Nut, Chestnut"
+Nuts,"Nut, Galip"
+Nuts,"Nut, Hazelnut"
+Nuts,"Nut, Macadamia"
+Nuts,"Nut, Macaroon"
+Nuts,"Nut, Peanut"
+Nuts,"Nut, Pecan"
+Nuts,"Nut, Pine"
+Nuts,"Nut, Pistachio"
+Nuts,"Nut, Walnut"
+Nuts,"Nuts, Not specified"
+Oil & Vinegar,"Oil, Borage"
+Oil & Vinegar,"Oil, Cajeput"
+Oil & Vinegar,"Oil, Canola"
+Oil & Vinegar,"Oil, Coconut"
+Oil & Vinegar,"Oil, Corn"
+Oil & Vinegar,"Oil, Cottonseed"
+Oil & Vinegar,"Oil, Flaxseed"
+Oil & Vinegar,"Oil, Grapeseed"
+Oil & Vinegar,"Oil, Hemp"
+Oil & Vinegar,"Oil, Lemon"
+Oil & Vinegar,"Oil, Macadamia"
+Oil & Vinegar,"Oil, Not specified"
+Oil & Vinegar,"Oil, Olive"
+Oil & Vinegar,"Oil, Palm"
+Oil & Vinegar,"Oil, Peanut"
+Oil & Vinegar,"Oil, Pumpkin"
+Oil & Vinegar,"Oil, rapeseed"
+Oil & Vinegar,"Oil, Sesame"
+Oil & Vinegar,"Oil, Soy"
+Oil & Vinegar,"Oil, Soybean"
+Oil & Vinegar,"Oil, Sunflower"
+Oil & Vinegar,"Oil, Vegetable"
+Oil & Vinegar,"Oil, Walnut"
+Oil & Vinegar,"Vinegar, Apple"
+Oil & Vinegar,"Vinegar, Apple cider"
+Oil & Vinegar,"Vinegar, Apple  "
+Oil & Vinegar,"Vinegar, Balsamic"
+Oil & Vinegar,"Vinegar, Black"
+Oil & Vinegar,"Vinegar, Cider"
+Oil & Vinegar,"Vinegar, Malt"
+Oil & Vinegar,"Vinegar, Not specified"
+Oil & Vinegar,"Vinegar, Plum"
+Oil & Vinegar,"Vinegar, Red wine"
+Oil & Vinegar,"Vinegar, Rice"
+Oil & Vinegar,"Vinegar, Sherry"
+Oil & Vinegar,"Vinegar, White wine"
+"Poultry, meat, fish","Bacon, Cured"
+"Poultry, meat, fish","Bacon, Not specified"
+"Poultry, meat, fish","Bacon, Roasted"
+"Poultry, meat, fish","Bacon, Smoked"
+"Poultry, meat, fish","Beef, Boiled"
+"Poultry, meat, fish","Beef, Dried"
+"Poultry, meat, fish","Beef, Grilled"
+"Poultry, meat, fish","Beef, Hamburger"
+"Poultry, meat, fish","Beef, Not specified"
+"Poultry, meat, fish","Beef, Pastrami"
+"Poultry, meat, fish","Beef, Roasted"
+"Poultry, meat, fish","Beef, Smoked"
+"Poultry, meat, fish",Boar
+"Poultry, meat, fish",Bologna
+"Poultry, meat, fish","Chicken, Baked"
+"Poultry, meat, fish","Chicken, Boiled"
+"Poultry, meat, fish","Chicken, Fried"
+"Poultry, meat, fish","Chicken, Grilled"
+"Poultry, meat, fish","Chicken, Not specified"
+"Poultry, meat, fish","Chicken, Roasted"
+"Poultry, meat, fish","Chicken, Smoked"
+"Poultry, meat, fish",Chili Con Carne
+"Poultry, meat, fish",Chorizo
+"Poultry, meat, fish","Deer, Not specified"
+"Poultry, meat, fish",Duck
+"Poultry, meat, fish",Elk
+"Poultry, meat, fish","Fish, Anchovy"
+"Poultry, meat, fish","Fish, Barramundi"
+"Poultry, meat, fish","Fish, Basa"
+"Poultry, meat, fish","Fish, Bonito"
+"Poultry, meat, fish","Fish, Calamari"
+"Poultry, meat, fish","Fish, Catfish"
+"Poultry, meat, fish","Fish, Caviar salmon"
+"Poultry, meat, fish","Fish, Cod"
+"Poultry, meat, fish","Fish, Eel"
+"Poultry, meat, fish","Fish, Goby"
+"Poultry, meat, fish","Fish, Grilled"
+"Poultry, meat, fish","Fish, Haddock"
+"Poultry, meat, fish","Fish, Hake"
+"Poultry, meat, fish","Fish, Halibut"
+"Poultry, meat, fish","Fish, Herring"
+"Poultry, meat, fish","Fish, Jellyfish"
+"Poultry, meat, fish","Fish, Mackerel"
+"Poultry, meat, fish","Fish, Milkfish"
+"Poultry, meat, fish","Fish, Mullet"
+"Poultry, meat, fish","Fish, Not specified"
+"Poultry, meat, fish","Fish, Pagasius"
+"Poultry, meat, fish","Fish, Pangasius"
+"Poultry, meat, fish","Fish, Perch"
+"Poultry, meat, fish","Fish, Pilchard"
+"Poultry, meat, fish","Fish, Plaice"
+"Poultry, meat, fish","Fish, Pollock"
+"Poultry, meat, fish","Fish, Salmon"
+"Poultry, meat, fish","Fish, Sand Lance"
+"Poultry, meat, fish","Fish, Sardine"
+"Poultry, meat, fish","Fish, Scorpion"
+"Poultry, meat, fish","Fish, sea bass"
+"Poultry, meat, fish","Fish, Seabream"
+"Poultry, meat, fish","Fish, Slipmouth"
+"Poultry, meat, fish","Fish, Smoked"
+"Poultry, meat, fish","Fish, Snapper"
+"Poultry, meat, fish","Fish, sole"
+"Poultry, meat, fish","Fish, Speck"
+"Poultry, meat, fish","Fish, Sturgen"
+"Poultry, meat, fish","Fish, Surimi"
+"Poultry, meat, fish","Fish, Swordfish"
+"Poultry, meat, fish","Fish, Tilapia"
+"Poultry, meat, fish","Fish, Tripe"
+"Poultry, meat, fish","Fish, Trout"
+"Poultry, meat, fish","Fish, Tuna"
+"Poultry, meat, fish","Fish, Whitebait"
+"Poultry, meat, fish","Fowl, Guinea"
+"Poultry, meat, fish","Game, Not specified"
+"Poultry, meat, fish",Goose
+"Poultry, meat, fish","Ham, Mortadella"
+"Poultry, meat, fish","Ham, Not specified"
+"Poultry, meat, fish","Ham, Pancetta"
+"Poultry, meat, fish","Ham, Parma"
+"Poultry, meat, fish","Ham, Prosciutto"
+"Poultry, meat, fish","Ham, Roasted"
+"Poultry, meat, fish","Ham, Serrano"
+"Poultry, meat, fish","Ham, Smoked"
+"Poultry, meat, fish",Lamb
+"Poultry, meat, fish",Marrow
+"Poultry, meat, fish","Meat, Not specified"
+"Poultry, meat, fish","Meat, Shashlik"
+"Poultry, meat, fish","Meat, Tongue"
+"Poultry, meat, fish","Meat, Yak"
+"Poultry, meat, fish",Mutton
+"Poultry, meat, fish","Organ Meat, Heart"
+"Poultry, meat, fish","Organ Meat, Kidney"
+"Poultry, meat, fish","Organ Meat, Liver"
+"Poultry, meat, fish",Ostrich
+"Poultry, meat, fish",Pepperoni
+"Poultry, meat, fish",Pheasant
+"Poultry, meat, fish",Porchetta
+"Poultry, meat, fish","Pork, Boiled"
+"Poultry, meat, fish","Pork, Grilled"
+"Poultry, meat, fish","Pork, Not specified"
+"Poultry, meat, fish","Pork, Roasted"
+"Poultry, meat, fish","Pork, Smoked"
+"Poultry, meat, fish","Pork, Steamed"
+"Poultry, meat, fish","Poultry, Not specified"
+"Poultry, meat, fish",Quail
+"Poultry, meat, fish",Rabbit
+"Poultry, meat, fish",Salami
+"Poultry, meat, fish",Sausage
+"Poultry, meat, fish","Seafood, Cuttlefish"
+"Poultry, meat, fish","Seafood, Not specified"
+"Poultry, meat, fish","Seafood, Octopus"
+"Poultry, meat, fish","Seafood, Sea urchin"
+"Poultry, meat, fish","Seafood, Squid"
+"Poultry, meat, fish","Shellfish, Abalone"
+"Poultry, meat, fish","Shellfish, Clam"
+"Poultry, meat, fish","Shellfish, Cockle"
+"Poultry, meat, fish","Shellfish, Crab"
+"Poultry, meat, fish","Shellfish, Crayfish"
+"Poultry, meat, fish","Shellfish, Lobster"
+"Poultry, meat, fish","Shellfish, Mussels"
+"Poultry, meat, fish","Shellfish, Not specified"
+"Poultry, meat, fish","Shellfish, Oyster"
+"Poultry, meat, fish","Shellfish, Prawns"
+"Poultry, meat, fish","Shellfish, Scallop"
+"Poultry, meat, fish","Shellfish, Scampi"
+"Poultry, meat, fish","Shellfish, Shrimp"
+"Poultry, meat, fish",Snails
+"Poultry, meat, fish",Spare Ribs
+"Poultry, meat, fish",Steak
+"Poultry, meat, fish","Turkey, Fried"
+"Poultry, meat, fish","Turkey, Grilled"
+"Poultry, meat, fish","Turkey, Not specified"
+"Poultry, meat, fish","Turkey, Roasted"
+"Poultry, meat, fish","Turkey, Smoked"
+"Poultry, meat, fish",Veal
+"Poultry, meat, fish",Venison
+Rice,"Rice, Arborio"
+Rice,"Rice, Basmati"
+Rice,"Rice, black"
+Rice,"Rice, Brown"
+Rice,"Rice, Jasmine"
+Rice,"Rice, Koshihikari"
+Rice,"Rice, Long grain"
+Rice,"Rice, Not specified"
+Rice,"Rice, Pilaf"
+Rice,"Rice, Pilau"
+Rice,"Rice, Red"
+Rice,"Rice, Spanish"
+Rice,"Rice, White"
+Rice,"Rice, Wild"
+Rice,"Rice, Yellow"
+Sauce & Condiment,Alfredo
+Sauce & Condiment,Bearnaise
+Sauce & Condiment,Brown Sauce
+Sauce & Condiment,Chakalaka
+Sauce & Condiment,"Curry, Hot"
+Sauce & Condiment,"Curry, Madras"
+Sauce & Condiment,"Curry, Masala"
+Sauce & Condiment,"Curry, Medium"
+Sauce & Condiment,"Curry, Mild"
+Sauce & Condiment,French Dressing
+Sauce & Condiment,Guacamole
+Sauce & Condiment,Hollandaise
+Sauce & Condiment,Ketchup
+Sauce & Condiment,Mayonnaise
+Sauce & Condiment,Pico De Gallo
+Sauce & Condiment,Salad Cream
+Sauce & Condiment,Salsa
+Sauce & Condiment,Soy Sauce
+Sauce & Condiment,Tabasco
+Sauce & Condiment,Tandoori Masala
+Sauce & Condiment,Tartare
+Sauce & Condiment,Teriyaki
+Sauce & Condiment,Thousand Island
+Sauce & Condiment,Tikka Masala
+Sauce & Condiment,Worcestershire
+Smoke & Roasted,Barbecue
+Smoke & Roasted,"Barbecue, Sweet"
+Smoke & Roasted,"Barbecue, Szechuan"
+Smoke & Roasted,"Barbecue, Wood fired"
+Smoke & Roasted,Hickory
+Smoke & Roasted,Mesquite
+Smoke & Roasted,Roasted
+Smoke & Roasted,Smoked
+Spices & Seeds,Allspice
+Spices & Seeds,Anise
+Spices & Seeds,Annatto
+Spices & Seeds,Bouquet Garni
+Spices & Seeds,Buffalo Wing
+Spices & Seeds,Capicollo Spice
+Spices & Seeds,Caraway
+Spices & Seeds,Cardamon
+Spices & Seeds,Carraway
+Spices & Seeds,Cassia
+Spices & Seeds,Catalina Spice
+Spices & Seeds,Cayenne
+Spices & Seeds,Chili Powder
+Spices & Seeds,Chinese Five Spice
+Spices & Seeds,Cinnamon
+Spices & Seeds,Cloves
+Spices & Seeds,Cumin
+Spices & Seeds,Curry Powder
+Spices & Seeds,"Curry, Green"
+Spices & Seeds,"Curry, Korma"
+Spices & Seeds,"Curry, Not specified"
+Spices & Seeds,"Curry, Red"
+Spices & Seeds,"Curry, Vindaloo"
+Spices & Seeds,"Curry, Yellow"
+Spices & Seeds,Dillweed
+Spices & Seeds,Eucalyptus
+Spices & Seeds,Fenugreek
+Spices & Seeds,Galangal
+Spices & Seeds,Ginger
+Spices & Seeds,Horseradish
+Spices & Seeds,Juniper
+Spices & Seeds,Lemongrass
+Spices & Seeds,Licorice
+Spices & Seeds,Mace
+Spices & Seeds,"Mustard, Dijon"
+Spices & Seeds,"Mustard, Honey"
+Spices & Seeds,"Mustard, Not specified"
+Spices & Seeds,"Mustard, Wholegrain"
+Spices & Seeds,Nigella
+Spices & Seeds,Nutmeg
+Spices & Seeds,Onion Seed
+Spices & Seeds,Paprika
+Spices & Seeds,"Pepper, Black"
+Spices & Seeds,"Pepper, Green"
+Spices & Seeds,"Pepper, Lemon"
+Spices & Seeds,"Pepper, Not specified"
+Spices & Seeds,"Pepper, Red"
+Spices & Seeds,"Pepper, Roasted"
+Spices & Seeds,"Pepper, White"
+Spices & Seeds,Peppercorns
+Spices & Seeds,Saffron
+Spices & Seeds,Salt
+Spices & Seeds,Salt & Pepper
+Spices & Seeds,Salt & Vinegar
+Spices & Seeds,"Sea, Salt"
+Spices & Seeds,"Seed, Celery"
+Spices & Seeds,"Seed, Chai"
+Spices & Seeds,"Seed, Coriander"
+Spices & Seeds,"Seed, Dill"
+Spices & Seeds,"Seed, Fennel"
+Spices & Seeds,"Seed, Flaxseed"
+Spices & Seeds,"Seed, Hemp"
+Spices & Seeds,"Seed, Kalonji"
+Spices & Seeds,"Seed, Linseed"
+Spices & Seeds,"Seed, Mustard"
+Spices & Seeds,"Seed, Persimmon"
+Spices & Seeds,"Seed, Poppy"
+Spices & Seeds,"Seed, Pumpkin"
+Spices & Seeds,"Seed, Sunflower"
+Spices & Seeds,"Seed, Tamarind"
+Spices & Seeds,"Seeds, Melon"
+Spices & Seeds,"Seeds, Not specified"
+Spices & Seeds,Sesame
+Spices & Seeds,"Sesame, Black"
+Spices & Seeds,"Sesame, White"
+Spices & Seeds,"Spice, Coppa"
+Spices & Seeds,"Spices, Multi"
+Spices & Seeds,"Spices, Not specified"
+Spices & Seeds,Star Anise
+Spices & Seeds,Tumeric
+Spices & Seeds,Turmeric
+Spices & Seeds,Wasabi
+Spices & Seeds,Yeast
+Spices & Seeds,Yeast Extract
+Tea,"Tea, Assam"
+Tea,"Tea, Black"
+Tea,"Tea, Chai"
+Tea,"Tea, Chamomile"
+Tea,"Tea, Darjeeling"
+Tea,"Tea, Earl grey"
+Tea,"Tea, Green"
+Tea,"Tea, Herbal"
+Tea,"Tea, Jasmine"
+Tea,"Tea, Kabuse"
+Tea,"Tea, Kombucha"
+Tea,"Tea, Matcha"
+Tea,"Tea, Mate"
+Tea,"Tea, Not specified"
+Tea,"Tea, Oolong"
+Tea,"Tea, Red"
+Tea,"Tea, Rooibos"
+Tea,"Tea, Rosehip"
+Tea,"Tea, Senna"
+Tea,"Tea, Verbena"
+Tea,"Tea, White"
+Unflavored,Unflavored
+Vanilla,"Vanilla, Bourbon"
+Vanilla,"Vanilla, French"
+Vanilla,"Vanilla, Madagascan"
+Vanilla,"Vanilla, Natural"
+Vanilla,"Vanilla, Not specified"
+Vanilla,"Vanilla, Tahitian"
+Vegetable,Alfalfa
+Vegetable,Arame
+Vegetable,Artichoke
+Vegetable,Asparagus
+Vegetable,"Asparagus, Green"
+Vegetable,"Asparagus, White"
+Vegetable,Aubergine/Egg Plant
+Vegetable,Avocado
+Vegetable,Bamboo Shoot
+Vegetable,"Bean, Azuki"
+Vegetable,"Bean, Baked"
+Vegetable,"Bean, Black"
+Vegetable,"Bean, Black turtle"
+Vegetable,"Bean, Borlotti"
+Vegetable,"Bean, Broad"
+Vegetable,"Bean, Butter"
+Vegetable,"Bean, Cannellini"
+Vegetable,"Bean, Chicory"
+Vegetable,"Bean, Cocoa"
+Vegetable,"Bean, Curd"
+Vegetable,"Bean, Flageolet"
+Vegetable,"Bean, Green"
+Vegetable,"Bean, Kidney"
+Vegetable,"Bean, Lima"
+Vegetable,"Bean, Long"
+Vegetable,"Bean, Multi"
+Vegetable,"Bean, Mung"
+Vegetable,"Bean, Mungo"
+Vegetable,"Bean, Not specified"
+Vegetable,"Bean, Pinto"
+Vegetable,"Bean, Red"
+Vegetable,"Bean, Runner"
+Vegetable,"Bean, Soy"
+Vegetable,"Bean, White"
+Vegetable,"Bean, Yellow"
+Vegetable,"Beans, White"
+Vegetable,Beetroot
+Vegetable,Beetroot Greens
+Vegetable,Boletus
+Vegetable,Breadfruit
+Vegetable,Broccoli
+Vegetable,Brussels Sprout
+Vegetable,Burdock
+Vegetable,"Cabbage, Chinese"
+Vegetable,"Cabbage, Green"
+Vegetable,"Cabbage, Nappa"
+Vegetable,"Cabbage, Not specified"
+Vegetable,"Cabbage, Red"
+Vegetable,"Cabbage, Round"
+Vegetable,"Cabbage, Savoy"
+Vegetable,"Cabbage, White"
+Vegetable,Capsicum
+Vegetable,Cardoon
+Vegetable,Carob
+Vegetable,Carrot
+Vegetable,"Carrot, Black"
+Vegetable,Cauliflower
+Vegetable,Celeriac
+Vegetable,Celery
+Vegetable,Chayote
+Vegetable,Chicken Of The Woods
+Vegetable,Chickpeas
+Vegetable,"Chicory, Red"
+Vegetable,Chile De Arbol
+Vegetable,"Chili, Anaheim"
+Vegetable,"Chili, Chipotle"
+Vegetable,"Chili, Green"
+Vegetable,"Chili, Habanero"
+Vegetable,"Chili, Jalapeno"
+Vegetable,"Chili, Not specified"
+Vegetable,"Chili, Peri peri"
+Vegetable,"Chili, Poblano"
+Vegetable,"Chili, Red"
+Vegetable,"Chili, Sambal"
+Vegetable,"Chili, Sweet"
+Vegetable,Collard Greens
+Vegetable,"Corn, Baby"
+Vegetable,"Corn, Blue"
+Vegetable,"Corn, Not specified"
+Vegetable,"Corn, Red"
+Vegetable,"Corn, Roasted"
+Vegetable,"Corn, White"
+Vegetable,"Corn, Yellow"
+Vegetable,"Courgette/Squash, Green"
+Vegetable,"Courgette/Squash, Yellow"
+Vegetable,Cucumber
+Vegetable,Daikon Radish
+Vegetable,Dandelion
+Vegetable,Dulse
+Vegetable,Eggplant
+Vegetable,Endive
+Vegetable,Enokitake
+Vegetable,Escarole
+Vegetable,Fariy Ring Mushrooms
+Vegetable,Garden Greens
+Vegetable,"Garlic, wild"
+Vegetable,Gherkin/Pickle/Capers
+Vegetable,Glasswort
+Vegetable,Golden Chanterelle
+Vegetable,Haricot Vert
+Vegetable,Heart of palm
+Vegetable,Hen Of The Woods
+Vegetable,Herbe De St Pierre
+Vegetable,Honey Fungus
+Vegetable,Horn Of Plenty
+Vegetable,Irish moss
+Vegetable,Jerusalem Artichoke
+Vegetable,Jicama
+Vegetable,Kale
+Vegetable,Kimchi
+Vegetable,Kohlrabi
+Vegetable,Konbu
+Vegetable,Leek
+Vegetable,Lentils
+Vegetable,"Lettuce, Butterhead"
+Vegetable,"Lettuce, Iceberg"
+Vegetable,"Lettuce, Not specified"
+Vegetable,"Lettuce, Red (radicchio)"
+Vegetable,"Lettuce, Romaine"
+Vegetable,Lotus Root
+Vegetable,Mange Tout
+Vegetable,Marsh Samphire
+Vegetable,Matsutake
+Vegetable,Miso
+Vegetable,Morel
+Vegetable,"Mushroom, Agaric"
+Vegetable,"Mushroom, Beefsteak"
+Vegetable,"Mushroom, Boletus"
+Vegetable,"Mushroom, Button"
+Vegetable,"Mushroom, Champignon"
+Vegetable,"Mushroom, Chanterelle"
+Vegetable,"Mushroom, Chestnut"
+Vegetable,"Mushroom, Crimini"
+Vegetable,"Mushroom, Lobster"
+Vegetable,"Mushroom, maitake"
+Vegetable,"Mushroom, Not specified"
+Vegetable,"Mushroom, Oyster"
+Vegetable,"Mushroom, Pin-head"
+Vegetable,"Mushroom, Porcini"
+Vegetable,"Mushroom, Portabello"
+Vegetable,"Mushroom, Pyogo"
+Vegetable,"Mushroom, Shiitake"
+Vegetable,"Mushroom, Snow"
+Vegetable,"Mushroom, Songi"
+Vegetable,"Mushroom, Truffle"
+Vegetable,Mustard Greens
+Vegetable,Nettle
+Vegetable,Noni
+Vegetable,Nori
+Vegetable,Okra
+Vegetable,"Olive, Black"
+Vegetable,"Olive, Empeltre"
+Vegetable,"Olive, French"
+Vegetable,"Olive, Green"
+Vegetable,"Olive, Halkidiki"
+Vegetable,"Olive, Kalamata"
+Vegetable,"Olive, Not specified"
+Vegetable,"Olive, Spinach"
+Vegetable,"Onion, Caramelized"
+Vegetable,"Onion, French"
+Vegetable,"Onion, Fried"
+Vegetable,"Onion, Green"
+Vegetable,"Onion, Not specified"
+Vegetable,"Onion, Pickled"
+Vegetable,"Onion, Red"
+Vegetable,"Onion, Roasted"
+Vegetable,"Onion, Spring"
+Vegetable,"Onion, Sweet"
+Vegetable,"Onion, Vidalia"
+Vegetable,"Onion, White"
+Vegetable,"Onion, Yellow"
+Vegetable,Parasol
+Vegetable,Parsnip
+Vegetable,"Pea, Black eyed"
+Vegetable,"Pea, Garden"
+Vegetable,"Pea, Green"
+Vegetable,"Pea, Kuzu"
+Vegetable,"Pea, Not specified"
+Vegetable,"Pea, Purple garden"
+Vegetable,"Pea, Sugar snap"
+Vegetable,"Peas, Not specified"
+Vegetable,"Pepper, Bell green"
+Vegetable,"Pepper, Bell red"
+Vegetable,"Pepper, Bell yellow"
+Vegetable,"Pepper, Cubanelle"
+Vegetable,"Pepper, Green bell"
+Vegetable,Pimento
+Vegetable,"Potato, Idaho"
+Vegetable,"Potato, New"
+Vegetable,"Potato, Not specified"
+Vegetable,"Potato, Purple"
+Vegetable,"Potato, Red"
+Vegetable,"Potato, Sweet"
+Vegetable,"Potato, White"
+Vegetable,Pumpkin
+Vegetable,Radish
+Vegetable,Rock Samphire
+Vegetable,Rubber Brush
+Vegetable,Rucola
+Vegetable,Saffrom Milk-Cap
+Vegetable,Salsify
+Vegetable,Samphire
+Vegetable,Scorzonera
+Vegetable,Sea Fennel
+Vegetable,Seaweed
+Vegetable,Shaggy Cap
+Vegetable,Shallot
+Vegetable,Sorrel
+Vegetable,Spinach
+Vegetable,Spring Greens
+Vegetable,"Sprouts, Bean"
+Vegetable,"Squash, Acorn"
+Vegetable,"Squash, Butternut"
+Vegetable,"Squash, Hubbard"
+Vegetable,"Squash, Patty-pan"
+Vegetable,"Squash, Scalloped"
+Vegetable,"Squash, Spaghetti"
+Vegetable,Swede
+Vegetable,Swiss Chard
+Vegetable,Taro
+Vegetable,Taro Root
+Vegetable,Tomatillo
+Vegetable,"Tomato, Cherry"
+Vegetable,"Tomato, Not specified"
+Vegetable,"Tomato, Red"
+Vegetable,"Tomato, Sun-dried"
+Vegetable,Turnip
+Vegetable,Turnip Greens
+Vegetable,"Turnip, Red"
+Vegetable,Vegetable Marrow
+Vegetable,"Vegetables, Not specified"
+Vegetable,Water Chestnut
+Vegetable,Watercress
+Vegetable,White Asparagus
+Vegetable,White Radish
+Vegetable,Wood Blewit
+Vegetable,Wood Hedgehog
+Vegetable,"Yam, Not specified"
+Vegetable,"Yam, Purple"
+Vegetable,Yellow Wax Bean
+Vegetable,Yuca
+Vegetable,Yucca
+Vegetable,Zucchini
