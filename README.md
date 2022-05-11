@@ -28,11 +28,11 @@
   - Visualisation of TOP 5 unique flavors across each countries in 2013
 
 # 6. Hypothesis Testing: TOP 5 Positioning Groups
-   - Visualisation of TOP TOP 5 Positioning Groups
-   - Done T test
-   -H0:,Average of  positioning groups launches is  u = X
-    H1: Average of positioning groups launches is  u less than X
-    u is the mean of all positon groups product launch count avg
+   - Visualisation of TOP TOP 5 Positioning Groups.
+   - Done T test.
+   - H0:,Average of  positioning groups launches is  u = X.
+   - H1: Average of positioning groups launches is  u less than X.
+   - u is the mean of all positon groups product launch count avg.
     x is the mean of 5 positon groups product launch count avg
     rejected H0 and accepted H1 after T test
                                                               xxxx
