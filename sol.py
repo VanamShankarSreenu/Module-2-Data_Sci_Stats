@@ -3,27 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def formatter(s):
-    i, j = 0, 0
-    n = len(s)
-    res = []
-    while i < n and j < n:
-        if s[j] != ';' and s[j] != '|':
-            j = j+1
-        else:
-            substr = s[i:j]
-            if s[j] == '|':
-                j = j+2
-                i = j
-            else:
-                j = j+1
-                i = j
-            res.append(substr.strip())
-    res.append(s[i:j].strip())
-    return res
-
-
-def formatter2(s, dict):
+def formatter(s, dict):
     i, j = 0, 0
     n = len(s)
     res = []
@@ -66,7 +46,7 @@ def formatter2(s, dict):
                 count = count+1
             else:
                 dict[val.strip()] = dict.get(val.strip()) + 1
-    return dict
+    return dict,frmt_string
 
 
 # a list of unique flavors based on your analysis. What is the total number
@@ -129,7 +109,7 @@ def subcat_high_uniq_flav(df):
         for s in flavor_list:
             if type(s) == float:
                 continue
-            dict = formatter(s, dict)
+            dict, _ = formatter(s, dict)
         count = len(dict)
         if count > maxi:
             maxi = count
@@ -143,9 +123,7 @@ def subcat_high_uniq_flav(df):
 # no of fruit flav launches
 def no_of_prod_launch(df):
     df['eventdate'] = pd.to_datetime(df['eventdate'], format='%m-%d-%Y')
-    df = df.groupby('eventdate')['flavor'].apply(list).reset_index()
-    df = df.sort_values(by='eventdate')
-    df['count of fruit flavor'] = ""
+    df['fruit flavor'] = "No"
     fc = pd.read_csv('Flavor Classification Dataset.csv', encoding='latin-1')
     fc = fc[fc['Flavor_Group'] == 'Fruit'].reset_index()
     fruit_flav = []
@@ -153,26 +131,21 @@ def no_of_prod_launch(df):
         fruit_flav.append(fc['flavor'].loc[i].strip())
     for i in range(0, len(df)):
         flav_list = df['flavor'].loc[i]
-        count = 0
-        for s in flav_list:
-            if type(s) == float:
-                s = str(s)
-            frmt_flav_list = formatter(s)
-            # print(frmt_flav_list)
-            for val in frmt_flav_list:
-                for j in range(0, len(fruit_flav)):
-                    if val.strip().lower() == fruit_flav[j].strip().lower():
-                        count = count+1
-                        break
-        df['count of fruit flavor'].loc[i] = count
+        flag = 0
+        if type(flav_list) == float:
+            continue
+        _, frmt_flav_list = formatter(flav_list)
+        for val in frmt_flav_list:
+            for j in range(0, len(fruit_flav)):
+                if val.strip().lower() == fruit_flav[j].strip().lower():
+                    df['fruit flavor'].loc[i] = "Yes"
+                    flag = 1
+                    break
+            if flag == 1:
+                break
+    df = df[df['fruit flavor'] == "Yes"].reset_index()
+    df = df.groupby(df['eventdate'].dt.to_period('Q'))['id'].count().reset_index()
     print(df)
-    ax = plt.gca()
-    # line plot for math marks
-    df.plot(kind='line',
-            x='eventdate',
-            y='count of fruit flavor',
-            color='blue', ax=ax)
-    plt.show()
 
 
 def data_for_client(df):
@@ -194,17 +167,21 @@ def data_for_client(df):
 def top_uniq_flav(df, year='2013'):
     regex = '2013.*'
     df = df[df.eventdate.str.contains(regex, na=False)].reset_index()
-    dict = {}
+    df = df.groupby('country')['flavor'].apply(list).reset_index()
+    df["Top 5 unique flavor"] = ""
     for i in range(0, len(df)):
-        s = df['flavor'].loc[i]
-        if type(s) == float:
-            continue
-        dict = formatter(s, dict)
-    flavors = []
-    for val, key in dict.items():
-        flavors.append([val, key])
-    flavors = sorted(flavors, key=lambda x: x[1], reverse=True)
-    print(flavors[0:5])
+        flavor_list = df['flavor'].loc[i]
+        dict = {}
+        for s in flavor_list:
+            if type(s) == float:
+                continue
+            dict, _ = formatter(s, dict)
+            flavors = []
+            for val, key in dict.items():
+                flavors.append([val, key])
+            flavors = sorted(flavors, key=lambda x: x[1], reverse=True)
+            df["Top 5 unique flavor"].loc[i] = flavors[0:5]
+    print(df['Top 5 unique flavor'].head(5).loc[0])
 
 
 def MapPositioningCategory(df):
@@ -216,7 +193,6 @@ def MapPositioningCategory(df):
         pos_subgrp = df_pos_map['Positioning Subcategory'].loc[i]
         pos_grp = df_pos_map['Positioning Group'].loc[i]
         map[str(pos_subgrp)] = str(pos_grp)
-    print(map)
     for i in range(0, len(df)):
         pos_sub_grp = df['positioning'].loc[i]
         regex = str(pos_sub_grp).split(',')
@@ -224,10 +200,16 @@ def MapPositioningCategory(df):
             if map.get(regex[j].strip()) is not None:
                 df['Positioning Group'].loc[i] = map.get(regex[j].strip())
                 break
-    conv_posi = df[df['Positioning Group'] == 'Convenience'].reset_index()
-    eth_posi = df[df['Positioning Group'] == 'Ethical'].reset_index()
-    print(conv_posi)
-    print(eth_posi)
+    return df
+
+
+def Hypothesis_Testing(df):
+    regex = '2013.*'
+    df = df[df.eventdate.str.contains(regex, na=False)].reset_index()
+    df = MapPositioningCategory(df)
+    df = df.groupby('Positioning Group')['country'].count().reset_index()
+    print(df)
+    return
 
 
 # read the product lauch dataset
@@ -235,9 +217,10 @@ df = pd.read_csv('Product Launch Dataset.csv', encoding='latin-1')
 # sub_cat=subcat_high_uniq_flav(df)
 # tot_no_of_uniq_flav(df)
 # data_for_client(df)
-# top_uniq_flav(df, "")
+#top_uniq_flav(df,"")
 # no_of_prod_launch(df)
 # ans = formatter("Lemon; Honey; Ginger, Mango|| Passion Fruit,k")
 # print(ans)
 # MapPositioningCategory(df)
 # histogram(df)
+Hypothesis_Testing(df)
