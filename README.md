@@ -1,6 +1,6 @@
 # MODULE 2: DS statistics assignment
 
-# code results and visualisations
+## code results and visualisations
  - Statistical Concepts & Assignment 2.1.ipynb
 
 # Data Exploration: Data Handling and Formatting
@@ -35,7 +35,6 @@
    - u is the mean of all positon groups product launch count avg.
     x is the mean of 5 positon groups product launch count avg
     rejected H0 and accepted H1 after T test
-                                                              xxxx
-
+                                                              
 
 
